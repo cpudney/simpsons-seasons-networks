@@ -1,0 +1,467 @@
+/wiki/Simpsons_Roasting_on_an_Open_Fire
+character: Alfie
+character: Wendell Borton
+character: Patty Bouvier
+character: Selma Bouvier
+character: Brainy
+character: Charlie Brown
+character: Bubbles
+character: Charles Montgomery Burns
+character: Cheque giver
+character: Chew My Shoe
+character: Christmas pageant girl
+character: Lewis Clark
+character: Daria
+character: Dog O' War
+character: Fido
+character: Ned Flanders
+character: Todd Flanders
+character: Fred
+character: Girl with a headband
+character: Barney Gumble
+character: Hypnotist
+character: Jaffee
+character: Dewey Largo
+character: Mall Santa boy
+character: Mall Santa girl
+character: Moldy
+character: Mervin Monroe
+character: Norman
+character: Quadruped
+character: Photo girl
+character: Santa School head
+character: Santa's Little Helper
+character: Les
+character: Sherri Mackleberry
+character: Shirley
+character: Abraham Simpson
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Seymour Skinner
+character: Waylon Smithers, Jr.
+character: Snowball I
+character: Snowball II
+character: Springfield Downs father
+character: Springfield Downs boy
+character: Springfield Downs worker
+character: Moe Szyslak
+character: Terri Mackleberry
+character: Tiny Tim
+character: Milhouse Van Houten
+character: Whirlwind
+character: Ralph Wiggum
+character: Irving Zitsofsky
+
+/wiki/Bart_the_Genius
+character: Bart Simpson
+character: Boris Csupowski
+character: Bullfighter
+character: Calvin
+character: Carmen opera singer
+character: Cecile Shapiro
+character: Albert Einstein
+character: Edna Krabappel
+character: Ethan Foley
+character: Homer Simpson
+character: Ian
+character: J. Loren Pyror
+character: Jane Goodall
+character: Lewis Clark
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Martin Prince, Jr.
+character: Milhouse Van Houten
+character: Ms. Melon
+character: Richard
+character: Seymour Skinner
+character: Singing girl
+character: Sydney Swift
+character: Tanya
+character: Ticket bouncer
+
+/wiki/Homer%27s_Odyssey
+character: Jasper Beardly
+character: Blinky
+character: Wendell Borton
+character: Charles Montgomery Burns
+character: Crystal
+character: Duff Beer advertiser
+character: Smilin' Joe Fission
+character: Ethan Foley
+character: Girl with a headband
+character: Barney Gumble
+character: Edna Krabappel
+character: Krusty the Clown
+character: Lewis Clark
+character: Larry
+character: Long haired girl
+character: Otto Mann
+character: Photo girl
+character: Richard
+character: Sam
+character: Security guard
+character: Sherri Mackleberry
+character: Sherri and Terri's father
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Waylon Smithers, Jr.
+character: Springfield Nuclear Power Plant employee
+character: Supporting guy
+character: Moe Szyslak
+character: Terri Mackleberry
+character: Milhouse Van Houten
+character: Clancy Wiggum
+character: Mr. Winfield
+character: Sylvia Winfield
+
+/wiki/There%27s_No_Disgrace_Like_Home
+character: Bobo
+character: Bold family
+character: Charles Montgomery Burns
+character: Cashier
+character: Eddie
+character: Mr. Gammel
+character: Tom Gammel
+character: Great dad
+character: Great daughter
+character: Great mom
+character: Great son
+character: Barney Gumble
+character: The Happy Little Elves
+character: Itchy
+character: Joshua and Amber's mother
+character: Lenny Leonard
+character: Lou
+character: Marvin Monroe
+character: Old father
+character: Receptionist
+character: Reformed dad
+character: Scratchy
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Waylon Smithers, Jr.
+character: Son
+character: Springfield Nuclear Power Plant wife
+character: Moe Szyslak
+character: Troubled dad
+character: Troubled mom
+character: Troubled son
+
+/wiki/Bart_the_General
+character: Becky
+character: Coward
+character: Jasper Beardly
+character: Wendell Borton
+character: Freddy
+character: Herman Hermann
+character: Jaffee
+character: Jamie
+character: Lewis Clark
+character: Otto Mann
+character: Melissa
+character: Nelson Muntz
+character: Martin Prince, Jr.
+character: Retirement Castle adminstrator
+character: Old Jewish Man
+character: Richard
+character: Sailor boy
+character: Abraham Simpson
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Seymour Skinner
+character: Milhouse Van Houten
+character: Black weasel
+character: Yellow weasel
+character: Ralph Wiggum
+
+/wiki/Moaning_Lisa
+character: Arcade boy
+character: Ms. Barr
+character: Wendell Borton
+character: Jacqueline Bouvier
+character: Arcade cashier
+character: Barney Gumble
+character: Howard
+character: Howard's mom
+character: Lewis Clark
+character: Jaffee
+character: Dewey Largo
+character: Larry
+character: Bleeding Gums Murphy
+character: Brunella Pommelhorst
+character: Janey Powell
+character: Martin Prince, Jr.
+character: Richard
+character: Sam
+character: Sherri Mackleberry
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Snowball II
+character: Springfield Elementary School Band
+character: Moe Szyslak
+character: Terri Mackleberry
+character: White boy
+character: Ralph
+character: Ralph Wiggum
+
+/wiki/The_Call_of_the_Simpsons
+character: Bear
+character: Bigfoot's capturer
+character: Bigfoot boy
+character: Cowboy Bob
+character: Camping man
+character: Camping woman
+character: Cap guy
+character: English scientist
+character: Female interviewer
+character: Female scientist
+character: Filmmaker
+character: Ned Flanders
+character: Rod Flanders
+character: French scientist
+character: Johnson
+character: Marvin Monroe
+character: News reporter
+character: Park ranger
+character: Phil
+character: Phil's aide
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+
+/wiki/The_Telltale_Head
+character: Ms. Albright
+character: Jasper Beardly
+character: Lucille Botzcowski
+character: Patty Bouvier
+character: Selma Bouvier
+character: Kent Brockman
+character: Charles Montgomery Burns
+character: Crystal
+character: Mr. Dandy
+character: Ned Flanders
+character: Barney Gumble
+character: Lewis Clark
+character: Janey Powell
+character: Jimbo Jones
+character: Edna Krabappel
+character: Krusty the Clown
+character: Dewey Largo
+character: Larry
+character: Timothy Lovejoy, Jr.
+character: Otto Mann
+character: Marvin Monroe
+character: Apu Nahasapeemapetilon
+character: Pepper
+character: J. Loren Pyror
+character: Richard
+character: Sam
+character: Abraham Simpson
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Waylon Smithers, Jr.
+character: Snowball II
+character: Space Mutants
+character: Dolph Starbeam
+character: Moe Szyslak
+character: Seymour Skinner
+character: Sideshow Bob
+character: Theater guy
+character: Milhouse Van Houten
+character: Clancy Wiggum
+character: Mr. Winfield
+character: Sylvia Winfield
+character: Kearney Zzyzwicz
+
+/wiki/Life_on_the_Fast_Lane
+character: Patty Bouvier
+character: Selma Bouvier
+character: Bowl-O-Rama Clerk
+character: Charles Montgomery Burns
+character: Charlie
+character: Connie Chung
+character: Jacques
+character: Lenny Leonard
+character: Helen Lovejoy
+character: Mall Cop
+character: Otto Mann
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Sirloin Staff
+character: Waylon Smithers, Jr.
+character: Springfield Nuclear Power Plant Worker with Hard Hat
+character: Mr. Winfield
+character: Sylvia Winfield
+
+/wiki/Homer%27s_Night_Out
+character: Adrian
+character: Burlesque guy
+character: Charles Montgomery Burns
+character: Carl Carlson
+character: Charlie
+character: Coward
+character: Gulliver Dark
+character: "Doo-de-doo" boy
+character: Female Mail Carrier
+character: Eugene Fisk
+character: Mr. Fisk
+character: Florence of Arabia worker
+character: Foxy Boxing Guy
+character: Freddy
+character: Girlesque worker
+character: Girls, Girls, Girls worker
+character: Barney Gumble
+character: "Hey hey" guy
+character: Lenny Leonard
+character: Lewis Clark
+character: Timothy Lovejoy, Jr.
+character: Mike
+character: Moon Guy
+character: Apu Nahasapeemapetilon
+character: Photo Girl
+character: Martin Prince, Jr.
+character: Rev. Lovejoy's Aide
+character: Richard
+character: Rusty Barnacle waiter
+character: Sapphire Lounge Guy
+character: Al Simmons
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Waylon Smithers, Jr.
+character: Suzie
+character: Suzie's Dad
+character: Moe Szyslak
+character: Princess Kashmir
+character: Milhouse Van Houten
+
+/wiki/The_Crepes_of_Wrath
+character: Adrian
+character: American spy
+character: Patty Bouvier
+character: Selma Bouvier
+character: Cesar
+character: Communist General
+character: Coward
+character: Flight attendant
+character: Freddy
+character: Bart Junior
+character: Adil Hoxha
+character: Mr. Hoxha
+character: Mrs. Hoxha
+character: Krusty the Clown
+character: Lenny Leonard
+character: Lewis Clark
+character: Maurice
+character: Bleeding Gums Murphy
+character: Photo Girl
+character: Police Officer
+character: Richard
+character: Santa's Little Helper
+character: Abraham Simpson
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Agnes Skinner
+character: Snowball II
+character: SWAT Agent
+character: SWAT Negotiator
+character: Seymour Skinner
+character: Ugolín
+character: Milhouse Van Houten
+
+/wiki/Krusty_Gets_Busted
+character: Adrian
+character: Sideshow Bob
+character: Bob's aide
+character: Patty Bouvier
+character: Selma Bouvier
+character: Brittany
+character: Brittany Brockman
+character: Kent Brockman
+character: Bubbles
+character: Scott Christian
+character: Coward
+character: Database
+character: District attorney
+character: Duff Beer advertiser
+character: Eddie
+character: Female interviewer
+character: Hobo Hank
+character: Itchy
+character: Krusty the Clown
+character: Krusty's lawyer
+character: Lou
+character: Timothy Lovejoy, Jr.
+character: Melissa
+character: Apu Nahasapeemapetilon
+character: News reporter
+character: Police officer 1
+character: Police officer
+character: Scratchy
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Roy Snyder
+character: Clancy Wiggum
+
+/wiki/Some_Enchanted_Evening
+character: America's Most Armed and Dangerous presenter
+character: Babysitting receptionist
+character: Lucille Botzcowski
+character: Bubbles
+character: Cheery
+character: Captain Cook
+character: Curious Bear Cub
+character: Larry Davis
+character: Doofy
+character: Barney Gumble
+character: Happy Green Idiots
+character: Howard, Sr.
+character: KBBL receptionist
+character: Larry
+character: Maitre D'
+character: Moldy
+character: Monroe, Marvin
+character: Arnie Pye
+character: Sam
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Space Mutants
+character: Power Plant employee
+character: Moe Szyslak
+character: Yendor
+

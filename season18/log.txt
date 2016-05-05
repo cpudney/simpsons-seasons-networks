@@ -1,0 +1,1114 @@
+/wiki/The_Mook,_the_Chef,_the_Wife_and_Her_Homer
+character: Michael D'Amico
+character: Garfield
+character: Gudrun Sylvester Hvid
+character: Johnny Tightlips
+character: Krusty the Clown
+character: Legs
+character: Louie
+character: Otto Mann
+character: Metallica
+character: Hans Moleman
+character: Nelson Muntz
+character: Sherri Mackleberry
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Terri Mackleberry
+character: Fat Tony
+character: Milhouse Van Houten
+
+/wiki/Jazzy_and_the_Pussycats
+character: Ms. Albright
+character: Anastasia
+character: Daphne Beaumont
+character: Anwar Benitez
+character: Sammy Biltmore
+character: The Blue Man Group
+character: Clancy Bouvier
+character: Patty Bouvier
+character: Brad
+character: Kent Brockman
+character: Dr. Brentano
+character: Carl Carlson
+character: Gary Chalmers
+character: Tootsie Childs
+character: The Chubb Group
+character: Bootsy Croutonne
+character: Database
+character: Brandine Del Roy
+character: Doug
+character: Eddie
+character: Ernst
+character: Ned Flanders
+character: Rod Flanders
+character: Todd Flanders
+character: Sketch Friendly
+character: Jonathan Frink
+character: Gillian
+character: Alice Glick
+character: Barney Gumble
+character: Gil Gunderson
+character: Gunter
+character: Gunter
+character: Henry the Canary
+character: Julius Hibbert
+character: Elizabeth Hoover
+character: Lewis Clark
+character: Jazzy Goodtime's waiter
+character: D.W. Jitters!
+character: Jimbo Jones
+character: No-Talent Jones
+character: Krusty the Clown
+character: Dewey Largo
+character: Marcus Le Marquez
+character: Lenny Leonard
+character: Helen Lovejoy
+character: Timothy Lovejoy, Jr.
+character: Neil
+character: Otto Mann
+character: Bossy Marmalade
+character: Gooey Martin
+character: Bad-Check Mazursky
+character: Horatio McCallister
+character: C.S.I. Miami
+character: Willie Mimms
+character: Mr. Mitchell
+character: Hans Moleman
+character: Lindsey Naegle
+character: Anoop Nahasapeemapetilon
+character: Apu Nahasapeemapetilon
+character: Manjula Nahasapeemapetilon
+character: Pria Nahasapeemapetilon
+character: Defonzo Palmer
+character: Patricia
+character: Bobby Peterson
+character: Ruth Powers
+character: The Pre-Marital Sextet
+character: Shaky Premise
+character: Martha Prince
+character: Martin Prince, Jr.
+character: Martin Prince, Sr.
+character: Rafael
+character: The Rich Texan
+character: Richard
+character: Nick Riviera
+character: Richie Sakai
+character: Sam
+character: Santa's Little Helper
+character: Sherri Mackleberry
+character: Amber Simpson
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Seymour Skinner
+character: Smiley
+character: Snowball V
+character: Spuckler children
+character: Cletus Spuckler
+character: Squeaky-voiced teen
+character: Samantha Stankey
+character: Cantaloupe St. Pierre
+character: Disco Stu
+character: Moe Szyslak
+character: Ray-Ray Takamura
+character: Terri Mackleberry
+character: Johnny Tightlips
+character: Tribal Chief
+character: Drop Jaws Turner
+character: Sideshow Mel
+character: Kirk Van Houten
+character: Luann Van Houten
+character: Milhouse Van Houten
+character: The White Stripes
+character: Clancy Wiggum
+character: Ralph Wiggum
+character: Sarah Wiggum
+character: Groundskeeper Willie
+character: Üter Zörker
+character: Kearney Zzyzwicz
+character: Bossie
+
+/wiki/Please_Homer,_Don%27t_Hammer_%27Em
+character: Adrian
+character: Kent Brockman
+character: Carl Carlson
+character: Gary Chalmers
+character: Comic Book Guy
+character: Brandine Del Roy
+character: Jonathan Frink
+character: Barney Gumble
+character: Julius Hibbert
+character: Lewis Jackson
+character: Edna Krabappel
+character: Krusty the Clown
+character: Lenny Leonard
+character: Helen Lovejoy
+character: Timothy Lovejoy
+character: Otto Mann
+character: Melissa
+character: Nabil
+character: Lindsey Naegle
+character: Apu Nahasapeemapetilon
+character: Persian man
+character: Rafael
+character: Richard
+character: Luigi Risotto
+character: Santa's Little Helper
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Seymour Skinner
+character: Cletus Spuckler
+character: Allison Taylor
+character: Kirk Van Houten
+character: Milhouse Van Houten
+character: Ralph Wiggum
+character: Groundskeeper Willie
+
+/wiki/Treehouse_of_Horror_XVII
+character: The Blob
+character: Blue
+character: Alan Dershowitz
+character: Female Golem
+character: Female teenager
+character: German man
+character: Male Golem
+character: Hobo
+character: Kang
+character: Kodos
+character: Krusty the Clown
+character: The Laugh Stop audience member (1)
+character: The Laugh Stop audience member (2)
+character: Phil McGraw
+character: Joe Quimby
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Jeffrey Tambor
+character: Orson Welles
+character: Clancy Wiggum
+
+/wiki/G.I._(Annoyed_Grunt)
+character: Ms. Albright
+character: Army colonel
+character: Army recruit
+character: Army recruiter 1
+character: Army recruiter 2
+character: Jasper Beardly
+character: Wendell Borton
+character: Kent Brockman
+character: Buck-toothed boy
+character: Charles Montgomery Burns
+character: Carl Carlson
+character: Gary Chalmers
+character: Charlie
+character: Colonel's aide
+character: Comic Book Guy
+character: Cap'n Crunch
+character: Database
+character: Dorothy
+character: Drill sergeant
+character: Ned Flanders
+character: Jonathan Frink
+character: Lunchlady Dora
+character: Girl with glasses
+character: Alice Glick
+character: Barney Gumble
+character: Gil Gunderson
+character: Herman Hermann
+character: Julius Hibbert
+character: Elizabeth Hoover
+character: Jaffee
+character: Jimbo Jones
+character: Edna Krabappel
+character: Krusty the Clown
+character: Dewey Largo
+character: Larry
+character: Legs
+character: Lenny Leonard
+character: Abraham Lincoln
+character: Lou
+character: Helen Lovejoy
+character: Timothy Lovejoy, Jr.
+character: Otto Mann
+character: Jack Marley
+character: Horatio McCallister
+character: Melissa
+character: Melvin
+character: Nelson Muntz
+character: Lindsey Naegle
+character: Apu Nahasapeemapetilon
+character: Sanjay Nahasapeemapetilon
+character: Old Jewish man
+character: Janey Powell
+character: Ruth Powers
+character: Martin Prince, Jr.
+character: Richard
+character: Nick Riviera
+character: Sam
+character: Sherri Mackleberry
+character: Abraham Simpson
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Seymour Skinner
+character: Waylon Smithers, Jr.
+character: Cletus Spuckler
+character: Squeaky-voiced teen
+character: Dolph Starbeam
+character: Moe Szyslak
+character: Terri Mackleberry
+character: Sideshow Mel
+character: Luann Van Houten
+character: Milhouse Van Houten
+character: George Washington
+character: Yellow weasel
+character: Clancy Wiggum
+character: Ralph Wiggum
+character: Sarah Wiggum
+character: Groundskeeper Willie
+character: Rainier Wolfcastle
+character: Kearney Zzyzwicz
+
+/wiki/Moe%27N%27a_Lisa
+character: Jasper Beardly
+character: Buck-toothed boy
+character: Carl Carlson
+character: Michael Chabon
+character: Eloise
+character: Jonathan Franzen
+character: Barney Gumble
+character: Adolf Hitler
+character: Elizabeth Hoover
+character: J. Jonah Jameson
+character: Lenny Leonard
+character: Hans Moleman
+character: Old Jewish man
+character: Janey Powell
+character: Santa's Little Helper
+character: Abraham Simpson
+character: Bart Simpson
+character: Lisa Simpson
+character: Homer Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Snowball II
+character: Spider-Man
+character: Moe Szyslak
+character: Allison Taylor
+character: Gore Vidal
+character: Yellow Weasel
+character: Groundskeeper Willie
+character: Tom Wolfe
+
+/wiki/Ice_Cream_of_Margie_(with_the_Light_Blue_Hair)
+character: Bear
+character: Jasper Beardly
+character: Blue-haired lawyer
+character: Wendell Borton
+character: Patty Bouvier
+character: Selma Bouvier
+character: Kent Brockman
+character: Buck-toothed boy
+character: Charles Montgomery Burns
+character: Bumblebee Man
+character: Capital City Goofball
+character: Carl Carlson
+character: Comic Book Guy
+character: Database
+character: Brandine Del Roy
+character: Eddie
+character: Maude Flanders
+character: Ned Flanders
+character: Rod Flanders
+character: Todd Flanders
+character: Frankie the Squealer
+character: Jeremy Freedman
+character: Jonathan Frink
+character: Gavin
+character: Alice Glick
+character: Magilla Gorilla
+character: Barney Gumble
+character: Bernice Hibbert
+character: Julius Hibbert
+character: Elizabeth Hoover
+character: Icarus
+character: iPod
+character: Snake Jailbird
+character: Jimbo Jones
+character: Mr. Jones
+character: Edna Krabappel
+character: Krusty the Clown
+character: Lactose intolerant boy
+character: Dewey Largo
+character: Larry
+character: Lenny Leonard
+character: Lou
+character: Helen Lovejoy
+character: Timothy Lovejoy
+character: Otto Mann
+character: Max
+character: Max's wife
+character: Horatio McCallister
+character: Melissa
+character: Roger Meyers, Jr.
+character: Nelson Muntz
+character: Apu Nahasapeemapetilon
+character: Sanjay Nahasapeemapetilon
+character: Opal
+character: Janey Powell
+character: Ruth Powers
+character: Martha Prince
+character: Martin Prince, Sr.
+character: Martin Prince
+character: Rafael
+character: Luigi Risotto
+character: Sam
+character: Santa's Little Helper
+character: Sherri Mackleberry
+character: Abraham Simpson
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Seymour Skinner
+character: Snowball II
+character: Cletus Spuckler
+character: Dolph Starbeam
+character: Professor Stein
+character: Disco Stu
+character: Moe Szyslak
+character: Drederick Tatum
+character: Terri Mackleberry
+character: The Rich Texan
+character: Fat Tony
+character: Gail Tucker
+character: Melvin Van Horne
+character: Kirk Van Houten
+character: Luann Van Houten
+character: Milhouse Van Houten
+character: Clancy Wiggum
+character: Sarah Wiggum
+character: Ralph Wiggum
+character: Greta Wolfcastle
+character: Rainier Wolfcastle
+character: Kearney Zzyzwicz
+
+/wiki/The_Haw-Hawed_Couple
+character: Wendell Borton
+character: Carl Carlson
+character: Gary Chalmers
+character: Database
+character: T. R. Francis
+character: Lunchlady Dora
+character: Headmaster Greystash
+character: Jimbo Jones
+character: Edna Krabappel
+character: Lenny Leonard
+character: Lewis Clark
+character: Legs
+character: Louie
+character: Horatio McCallister
+character: Mrs. Muntz
+character: Nelson Muntz
+character: Apu Nahasapeemapetilon
+character: Janey Powell
+character: Martin Prince, Jr.
+character: Richard
+character: Sherri Mackleberry
+character: Abraham Simpson
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Seymour Skinner
+character: Dolph Starbeam
+character: Moe Szyslak
+character: Terri Mackleberry
+character: Fat Tony
+character: Milhouse Van Houten
+character: Ralph Wiggum
+character: Groundskeeper Willie
+character: Kearney Zzyzwicz
+character: Galahad
+
+/wiki/Kill_Gil,_Volumes_I_%26_II
+character: Crazy Cat Lady
+character: Adrian
+character: Wendell Borton
+character: Patty Bouvier
+character: Buck-toothed boy
+character: Buck-toothed girl
+character: Charles Montgomery Burns
+character: Carl Carlson
+character: Lewis Clark
+character: Mr. Costington
+character: Ned Flanders
+character: The Grumple
+character: Gil Gunderson
+character: Girl with glasses
+character: Sophie Jensen
+character: Bernice Hibbert
+character: Julius Hibbert
+character: Candy Kevin
+character: Edna Krabappel
+character: Krusty the Clown
+character: Lenny Leonard
+character: Lewis look-alike
+character: Long haired girl
+character: Timothy Lovejoy, Jr.
+character: Sherri Mackleberry
+character: Terri Mackleberry
+character: Nelson Muntz
+character: Apu Nahasapeemapetilon
+character: Old Jewish Man
+character: Phillip
+character: Poochie
+character: Joe Quimby
+character: Rafael
+character: Richard
+character: Santa's Little Helper
+character: Abraham Simpson
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Waylon Smithers
+character: Elvis Stojko
+character: Moe Szyslak
+character: Melvin Van Horne
+character: Kirk Van Houten
+character: Milhouse Van Houten
+character: Groundskeeper Willie
+character: Jaffee Ziswhisky
+character: Kearney Zzyzwicz
+character: Kearney Zzyzwicz, Jr.
+
+/wiki/The_Wife_Aquatic
+character: Billy
+character: Ling Bouvier
+character: Patty Bouvier
+character: Selma Bouvier
+character: Carl Carlson
+character: Comic Book Guy
+character: Eloise
+character: Fausto
+character: Ned Flanders
+character: Rod Flanders
+character: Todd Flanders
+character: Alice Glick
+character: Bernice Hibbert
+character: Julius Hibbert
+character: Jack
+character: Officer Joe
+character: Jimbo Jones
+character: Jub-Jub
+character: Lenny Leonard
+character: Hans Moleman
+character: Italian Pete
+character: Martha Prince
+character: Martin Prince
+character: Martin Prince, Sr.
+character: Abraham Simpson
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Snowball II
+character: Dolph Starbeam
+character: Moe Szyslak
+character: Melvin Van Horne
+character: Kirk Van Houten
+character: Luann Van Houten
+character: Milhouse Van Houten
+character: Clancy Wiggum
+character: Sarah Wiggum
+character: Yum Yum Fish
+character: Kearney Zzyzwicz
+
+/wiki/Revenge_Is_a_Dish_Best_Served_Three_Times
+character: Bartman
+character: Charles Montgomery Burns
+character: Crimson Cockatoo
+character: The Diddler
+character: Barney Gumble
+character: Ham
+character: Julius Hibbert
+character: Krusty the Clown
+character: Poison Lenny
+character: Mr. Mole
+character: Richard
+character: Serpent
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Jimmy Smits
+character: Roy Snyder
+character: Sugar and Spice
+character: The Rich Texan
+character: The Toker
+
+/wiki/Little_Big_Girl
+character: Adrian
+character: Jasper Beardly
+character: Wendell Borton
+character: Bumblebee Man
+character: Charles Montgomery Burns
+character: Carl Carlson
+character: Gary Chalmers
+character: Darcy
+character: Database
+character: Brandine Del Roy
+character: Ned Flanders
+character: Rod Flanders
+character: Todd Flanders
+character: Jeremy Freedman
+character: Alice Glick
+character: Barney Gumble
+character: Bernice Hibbert
+character: Julius Hibbert
+character: Lewis Jackson
+character: Jaffee
+character: Jacques
+character: John Squawking Bear
+character: Edna Krabappel
+character: Krusty the Clown
+character: Cookie Kwan
+character: Larry
+character: Lenny Leonard
+character: Louie
+character: Helen Lovejoy
+character: Otto Mann
+character: Horatio McCallister
+character: Nelson Muntz
+character: Apu Nahasapeemapetilon
+character: Harry Potter
+character: Martha Prince
+character: Martin Prince
+character: Martin Prince, Sr.
+character: Joe Quimby
+character: Rafael
+character: Nick Riviera
+character: Sam
+character: Sherri Mackleberry
+character: Abraham Simpson
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Seymour Skinner
+character: Waylon Smithers
+character: Snowball II
+character: Cletus Spuckler
+character: Dylan Spuckler
+character: Dolph Starbeam
+character: Moe Szyslak
+character: Allison Taylor
+character: Mr. Teeny
+character: Terri Mackleberry
+character: Melvin Van Horne
+character: Luann Van Houten
+character: Milhouse Van Houten
+character: Clancy Wiggum
+character: Ralph Wiggum
+character: Groundskeeper Willie
+character: Üter Zörker
+
+/wiki/Springfield_Up
+character: Eleanor Abernathy
+character: Kent Brockman
+character: Charles Montgomery Burns
+character: Carl Carlson
+character: Comic Book Guy
+character: Crazy Cat Lady
+character: Declan Desmond
+character: Eddie
+character: Ned Flanders
+character: Jonathan Frink
+character: Barney Gumble
+character: Bernice Hibbert
+character: Julius Hibbert
+character: The Hounds
+character: Edna Krabappel
+character: Krusty the Clown
+character: Cookie Kwan
+character: Legs
+character: Lenny Leonard
+character: Lou
+character: Louie
+character: Horatio McCallister
+character: Nelson Muntz
+character: Joe Quimby
+character: Santa's Little Helper
+character: Shadow
+character: Abraham Simpson
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Waylon Smithers, Jr.
+character: Snake Jailbird
+character: Moe Szyslak
+character: Fat Tony
+character: Melvin Van Horne
+character: Clancy Wiggum
+character: Ralph Wiggum
+character: Winston
+character: Yes Guy
+character: Kearney Zzyzwicz
+
+/wiki/Yokel_Chords
+character: Adrian
+character: Wendell Borton
+character: Boy with shades
+character: Kent Brockman
+character: Buck-toothed boy
+character: Charles Montgomery Burns
+character: Buttcrack Barry
+character: Carl Carlson
+character: Jim Carrey
+character: Gary Chalmers
+character: Ling Chow
+character: Sheila Chow
+character: Chuck
+character: Comic Book Guy
+character: Crazy Cat Lady
+character: Salvador Dalí
+character: Brandine Del Roy
+character: Andy Dick
+character: Dario Fo
+character: Jonathan Frink
+character: Barney Gumble
+character: Sophie Jensen
+character: Bernice Hibbert
+character: Julius Hibbert
+character: Elizabeth Hoover
+character: Lewis Clark
+character: Jaffee
+character: Snake Jailbird
+character: Jimbo Jones
+character: Edna Krabappel
+character: Krusty the Clown
+character: Dewey Largo
+character: Lenny Leonard
+character: Long haired girl
+character: Louie
+character: Helen Lovejoy
+character: Timothy Lovejoy, Jr.
+character: Otto Mann
+character: Audrey McConnell
+character: Sideshow Mel
+character: Melissa
+character: Hans Moleman
+character: Nelson Muntz
+character: Apu Nahasapeemapetilon
+character: Manjula Nahasapeemapetilon
+character: Old Jewish man
+character: James Patterson
+character: Janey Powell
+character: Martha Prince
+character: Martin Prince
+character: Psychologist
+character: Reverend Racist
+character: Richard
+character: Nick Riviera
+character: Sherri Mackleberry
+character: Abraham Simpson
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Agnes Skinner
+character: Seymour Skinner
+character: Stephen Sondheim
+character: Springfield Elementary School psychologist
+character: Waylon Smithers, Jr.
+character: Birthday Spuckler
+character: Cletus Spuckler
+character: Crystal Meth Spuckler
+character: Dubya Spuckler
+character: Incest Spuckler
+character: International Harvester Spuckler
+character: Jitney Spuckler
+character: Whitney Spuckler
+character: Dark Stanley
+character: Dolph Starbeam
+character: Stacey Swanson
+character: Moe Szyslak
+character: Mr. Teeny
+character: Terri Mackleberry
+character: Fat Tony
+character: Merle Values
+character: Kirk Van Houten
+character: Milhouse Van Houten
+character: Clancy Wiggum
+character: Ralph Wiggum
+character: Sarah Wiggum
+character: Groundskeeper Willie
+character: Rainier Wolfcastle
+character: Üter Zörker
+character: Kearney Zzyzwicz
+
+/wiki/Rome-Old_and_Juli-Eh
+character: Ling Bouvier
+character: Patty Bouvier
+character: Selma Bouvier
+character: Calvin Coolidge
+character: Ned Flanders
+character: Lillian Gish
+character: Constance Harm
+character: Lionel Hutz
+character: Nelson Muntz
+character: Troy McClure
+character: Rafael
+character: Abraham Simpson
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Disco Stu
+character: Moe Szyslak
+character: Sideshow Mel
+character: Robert Terwilliger
+
+/wiki/Homerazzi
+character: Anastasia
+character: Kent Brockman
+character: Booberella
+character: Charles Montgomery Burns
+character: Capital City Goofball
+character: Carl Carlson
+character: José Canseco
+character: Chewbacca
+character: Scott Christian
+character: Gary Coleman
+character: Arthur Crandall
+character: Ernst
+character: Fireman
+character: Ned Flanders
+character: Freddy
+character: Gabbo
+character: Barney Gumble
+character: Gunter
+character: Enrico Irritazio
+character: Elton John
+character: Julio
+character: Princess Kashmir
+character: Krusty the Clown
+character: Legs
+character: Lenny Leonard
+character: Lurleen Lumpkin
+character: Bumblebee Man
+character: Paul McCartney
+character: Sideshow Mel
+character: Yao Ming
+character: Lance Murdock
+character: Apu Nahasapeemapetilon
+character: Evelyn Peters
+character: Freddy Quimby
+character: Joe Quimby
+character: Martha Quimby
+character: Rose Quimby
+character: Rafael
+character: Burt Reynolds
+character: Luigi Risotto
+character: Sara Sloane
+character: Santa's Little Helper
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Moe Szyslak
+character: Mr. T
+character: Drederick Tatum
+character: Paris Texan
+character: Rich Texan
+character: Milhouse Van Houten
+character: Betty White
+character: Robin Williams
+character: Rainier Wolfcastle
+
+/wiki/Marge_Gamer
+character: Vendor Apu
+character: Jesminder Bhamra
+character: Patty Bouvier
+character: Selma Bouvier
+character: Kent Brockman
+character: Mantis Burns
+character: Nick Callahan
+character: Gary Chalmers
+character: Christopher Columbus
+character: Comic Book Guy
+character: Brandine Del Roy
+character: Cycloid Dolph
+character: Eddie
+character: Ned Flanders
+character: Julius Hibbert
+character: Elizabeth Hoover
+character: Troll Jimbo
+character: Troll Kearney
+character: Cobra King
+character: Shadow Knight
+character: Edna Krabappel
+character: Enchantress Krabappel
+character: Krusty the Clown
+character: Cookie Kwan
+character: Dewey Largo
+character: Helen Lovejoy
+character: Jessica Lovejoy
+character: Timothy Lovejoy, Jr.
+character: Manchester United
+character: Otto Mann
+character: Elf Marge
+character: Wench Milhouse
+character: Troll Moe
+character: Apu Nahasapeemapetilon
+character: Manjula Nahasapeemapetilon
+character: Bat Nelson
+character: Pixie Dr. Nick
+character: Portly wizard
+character: Janey Powell
+character: Martha Prince
+character: Martin Prince, Sr.
+character: Ronaldo
+character: Sherri Mackleberry
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Seymour Skinner
+character: Turkey Skinner
+character: Waylon Smithers, Jr.
+character: Sophie
+character: Cletus Spuckler
+character: Sussexton-Hamptonshire-Unleath
+character: Moe Szyslak
+character: Terri Mackleberry
+character: Fat Tony
+character: Sideshow Mel
+character: Luann Van Houten
+character: Virgin Mary statue
+character: Warrior Marge
+character: Clancy Wiggum
+character: Groundskeeper Willie
+character: Rainier Wolfcastle
+character: Kearney Zzyzwicz
+
+/wiki/The_Boys_of_Bummer
+character: Bill
+character: Michael Bolton
+character: Charles Montgomery Burns
+character: Cottontail
+character: Jonathan Frink
+character: Julius Hibbert
+character: Stephen King
+character: Joe LaBoot
+character: Marty
+character: Apu Nahasapeemapetilon
+character: Eleanor Roosevelt
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Moe Szyslak
+character: Cotton Tail
+character: Milhouse Van Houten
+character: Clancy Wiggum
+
+/wiki/Crook_and_Ladder
+character: Kent Brockman
+character: Charles Montgomery Burns
+character: Carl Carlson
+character: Mr. Costington
+character: Franken Berry
+character: Ned Flanders
+character: Rod Flanders
+character: Todd Flanders
+character: John Lennon
+character: Lenny Leonard
+character: Apu Nahasapeemapetilon
+character: Elvis Presley
+character: Joe Quimby
+character: Luigi Risotto
+character: Santa's Little Helper
+character: Abraham Simpson
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Seymour Skinner
+character: Waylon Smithers
+character: Snowball II
+character: Moe Szyslak
+character: Melvin Van Horne
+character: Milhouse Van Houten
+character: Rainier Wolfcastle
+
+/wiki/Stop_or_My_Dog_Will_Shoot!
+character: Big Bird
+character: Clippy
+character: Eddie
+character: Elmo
+character: Barney Gumble
+character: Stephen Hawking
+character: Snake Jailbird
+character: Edna Krabappel
+character: Lou
+character: Pinhead
+character: Santa's Little Helper
+character: Sharquelle
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Seymour Skinner
+character: Cletus Spuckler
+character: Strangles
+character: Jason Voorhees
+character: Clancy Wiggum
+character: Groundskeeper Willie
+
+/wiki/24_Minutes
+character: Ms. Albright
+character: Jack Bauer
+character: Wendell Borton
+character: Bumblebee Man
+character: Charles Montgomery Burns
+character: Gary Chalmers
+character: Cosine
+character: Database
+character: Brandine Del Roy
+character: Ned Flanders
+character: Jonathan Frink
+character: Gil Gunderson
+character: Bernice Hibbert
+character: Elizabeth Hoover
+character: Lewis Clark
+character: Carol Jones
+character: Jimbo Jones
+character: Edna Krabappel
+character: Krusty the Clown
+character: Dewey Largo
+character: Helen Lovejoy
+character: Timothy Lovejoy, Jr.
+character: Otto Mann
+character: Jack Marley
+character: Hans Moleman
+character: Nelson Muntz
+character: Apu Nahasapeemapetilon
+character: Chloe O'Brian
+character: Martin Prince, Jr.
+character: Martin Prince, Sr.
+character: Phobos
+character: Arnie Pye
+character: Joe Quimby
+character: Martha Quimby
+character: Richard
+character: Santa's Little Helper
+character: Sherri Mackleberry
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Seymour Skinner
+character: Waylon Smithers, Jr.
+character: Squeaky-voiced teen
+character: Dolph Starbeam
+character: Moe Szyslak
+character: Allison Taylor
+character: Terri Mackleberry
+character: Fat Tony
+character: Kirk Van Houten
+character: Milhouse Van Houten
+character: Clancy Wiggum
+character: Ralph Wiggum
+character: Sarah Wiggum
+character: Groundskeeper Willie
+character: Rainier Wolfcastle
+character: Üter Zörker
+character: Kearney Zzyzwicz
+
+/wiki/You_Kent_Always_Say_What_You_Want
+character: Birch Barlow
+character: Becky
+character: Black weasel
+character: Wendell Borton
+character: Patty Bouvier
+character: Selma Bouvier
+character: Kent Brockman
+character: Bumblebee Man
+character: Melissa Burlingame
+character: Charles Montgomery Burns
+character: Carl Carlson
+character: Comic Book Guy
+character: Cosine
+character: Dracula
+character: Ned Flanders
+character: Rod Flanders
+character: Todd Flanders
+character: Barney Gumble
+character: Bernice Hibbert
+character: Julius Hibbert
+character: Itchy
+character: Snake Jailbird
+character: Kodos
+character: Edna Krabappel
+character: Krusty the Clown
+character: Laddie
+character: Lenny Leonard
+character: Leprechaun
+character: Lewis Clark
+character: Helen Lovejoy
+character: Ludacris
+character: Hans Moleman
+character: Nelson Muntz
+character: Lindsey Naegle
+character: Apu Nahasapeemapetilon
+character: Newshound
+character: Janey Powell
+character: Arnie Pye
+character: Joe Quimby
+character: Richard
+character: Santa's Little Helper
+character: Scratchy
+character: Abraham Simpson
+character: Bart Simpson
+character: Homer Simpson
+character: Lisa Simpson
+character: Maggie Simpson
+character: Marge Simpson
+character: Squeaky-voiced teen
+character: Sideshow Bob
+character: Mr. Teeny
+character: The Rich Texan
+character: Sideshow Mel
+character: Clancy Wiggum
+character: Rainier Wolfcastle
+
