@@ -6,7 +6,7 @@ The graphs have some common features. The largest nodes at the centre of each gr
 
 Surrounding the central family vertices are secondary characters who make frequent appearances although not in every episode. These include Abe Simpson (Grandpa), bartender Moe Szyslak, Homer's colleagues Carl Carlson and Lenny Leonard, Bart's school chum Milhouse Van Houten, and many more.
 
-Further from the centre we find characters who make fewer appearances, and on the periphery are clusters of vertices representing characters who appear together in a single episode.
+Further from the centre we find characters who make fewer appearances, and on the periphery are clusters of vertices representing characters who appear together in single episodes.
 
 The graphs become larger and more complex with the progression of the seasons. Season 1's graph has 240 character vertices. This rises to 600 characters in season 26.
 
@@ -14,7 +14,7 @@ The graphs become larger and more complex with the progression of the seasons. S
 
 I obtained the data from [Wikisimpsons](https://simpsonswiki.com). I wrote a PERL script to fetch and parse the characters appearing in each season's episodes. As is often the case sourcing and cleansing the data took considerable effort. Fortunately, Wikisimpsons is a wiki so I could correct some errors at source. Others require hacks and workarounds in the script. Even after this there are still some issues with the data that require attention.
 
-This work assumes Wikisimpsons is 100% complete, consistent and correct. It isn't, so if you spot any problems then please contribute to this excellent resource by fixing what you can.
+This work assumes Wikisimpsons is 100% complete, consistent and correct. It isn't, so if you spot any problems then please contribute to this excellent wiki by fixing what you can.
 
 ## The Graphs
 
